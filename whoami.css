@@ -1,0 +1,253 @@
+/*
+	@name whoami
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: table; position: relative; width: 1366px; height: 768px; margin-left: auto; margin-right: auto;  }
+
+#_bg__whoami {
+	top: 0px;
+	left: 0px;
+	width: 1366px;
+	height: 768px;
+	background:rgba(255,255,255,255);
+}
+
+#group_3 {
+	top: 0px;
+	left: 0px;
+	width: 1366px;
+	height: 768px;
+}
+
+#rectangle_4 {
+	top: 0px;
+	left: 0px;
+	width: 1364px;
+	height: 766px;
+	border: 1px solid #707070;
+	background:rgba(7,2,29,255);
+}
+
+
+#boss1 {
+	top: 11px;
+	left: 18px;
+	width: 535px;
+	height: 711px;
+}
+
+
+#darpan_sethi {
+	top: 352px;
+	left: 530px;
+	width: 414px;
+	height: 98px;
+	font-family: Sitka Banner;
+	font-size: 82px;
+	text-align: left;
+	color:#f9f5f5;
+}
+
+
+#rectangle_5 {
+	top: 466px;
+	left: 512px;
+	width: 832px;
+	height: 266px;
+	background:rgba(255,255,255,0);
+}
+
+
+#i_am_a_young_coding_enthusiast__when_something_creative_hits_my_mind__that_s_where_my_designing_skills_come_into_picture___________________________________ {
+	top: 480px;
+	left: 530px;
+	width: 796px;
+	height: 77px;
+	font-family: Sitka Banner;
+	font-size: 29px;
+	text-align: left;
+	color:#f9f5f5;
+}
+
+
+#i_am_smooth_in_front_end_development_adobe__unity_vuforia__argumented_reality__i_have_good_konwledge__of_industrial_environment_that_how_things_happen_onboard_i_am_fluent_in_content_writing_moreover_i_love_to_read_and_inspect_things_that_really_matters____ {
+	top: 558px;
+	left: 530px;
+	width: 818px;
+	height: 161px;
+	font-family: Sitka Banner;
+	font-size: 29px;
+	text-align: left;
+	color:#f9f5f5;
+}
+
+
+#icon_simple_instagram {
+	top: 360px;
+	left: 1021px;
+	width: 62.19384765625px;
+	height: 62.193725585938px;
+}
+
+
+#icon_awesome_facebook {
+	top: 360px;
+	left: 1129px;
+	width: 62.3525390625px;
+	height: 61.975402832031px;
+}
+
+
+#icon_awesome_linkedin {
+	top: 360px;
+	left: 1237px;
+	width: 62.228515625px;
+	height: 62.228454589844px;
+}
+
+#group_2 {
+	top: 46px;
+	left: 710px;
+	width: 632.333984375px;
+	height: 40px;
+}
+
+#path_1 {
+	top: 0px;
+	left: 0px;
+	width: 142.86669921875px;
+	height: 39.732223510742px;
+}
+
+
+#rectangle_3 {
+	top: 0px;
+	left: 163px;
+	width: 141px;
+	height: 38px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,0);
+}
+
+
+#rectangle_3_ek1 {
+	top: 0px;
+	left: 326px;
+	width: 141px;
+	height: 38px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,0);
+}
+
+
+#rectangle_3_ek2 {
+	top: 0px;
+	left: 489px;
+	width: 141px;
+	height: 38px;
+	border: 1px solid #707070;
+	background:white;
+}
+
+
+#home {
+	top: 11px;
+	left: 47px;
+	width: 51px;
+	height: 22px;
+	font-family: Sitka Banner;
+	font-size: 18px;
+	text-align: left;
+	color:#f9f5f5;
+
+}
+#home:hover{
+opacity:0.75;
+cursor: pointer;
+color:skyblue;
+}
+
+
+#about_me {
+	top: 11px;
+	left: 520px;
+	width: 84px;
+	height: 22px;
+	font-family: Sitka Banner;
+	font-size: 18px;
+	text-align: left;
+	color:black;
+cursor: pointer;
+
+}
+#about_me:hover{
+opacity:0.75;
+cursor: pointer;
+color:skyblue;
+}
+
+
+#certifications {
+	top: 11px;
+	left: 334px;
+	width: 128px;
+	height: 22px;
+	font-family: Sitka Banner;
+	font-size: 18px;
+	text-align: left;
+	color:#f9f5f5;
+cursor: pointer;
+}
+#certifications:hover{
+opacity:0.75;
+cursor: pointer;
+color:skyblue;
+}
+
+
+#skill_set {
+	top: 11px;
+	left: 197px;
+	width: 78px;
+	height: 22px;
+	font-family: Sitka Banner;
+	font-size: 18px;
+	text-align: left;
+	color:#f9f5f5;
+cursor: pointer;
+}
+#skill_set:hover{
+opacity:0.75;
+cursor: pointer;
+color:skyblue;
+}
+
+#icon_simple_instagram:hover{
+
+opacity:.75;
+
+}
+#icon_awesome_facebook:hover{
+
+opacity:.5;
+}
+#icon_awesome_linkedin:hover{
+
+opacity:.5;
+}
+a{
+top: 360px;
+	left: 1021px;
+	width: 62.19384765625px;
+	height: 62.193725585938px;
+}
+
+

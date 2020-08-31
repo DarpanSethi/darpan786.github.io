@@ -1,0 +1,663 @@
+/*
+	@name web_1366___2
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: table; position: relative; width: 1366px; height: 1579px; margin-left: auto; margin-right: auto;  }
+
+#_bg__web_1366___2 {
+	top: 0px;
+	left: 0px;
+	width: 1366px;
+	height: 1579px;
+	background:rgba(7,2,29,255);
+}
+
+a{
+color:white;
+text-decoration:none;
+}
+
+#__ {
+	top: 532px;
+	left: 179px;
+	width: 8px;
+	height: 17px;
+	font-family: Segoe UI;
+	font-size: 11px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#_ {
+	top: 565px;
+	left: 199px;
+	width: 5px;
+	height: 4px;
+	font-family: Segoe UI;
+	font-size: 20px;
+	text-align: left;
+	color:#ffffff;
+}
+
+#group_28 {
+	top: 339.79815673828px;
+	left: 901.70166015625px;
+	width: 328.48876953125px;
+	height: 289.20568847656px;
+}
+
+#line_10 {
+	top: 0px;
+	left: 299px;
+	width: 1px;
+	height: 289.20568847656px;
+}
+
+
+#line_9 {
+	top: 272px;
+	left: 0px;
+	width: 328.48876953125px;
+	height: 1px;
+}
+
+#group_29 {
+	top: 905.34069824219px;
+	left: 901.70166015625px;
+	width: 328.48876953125px;
+	height: 289.20568847656px;
+}
+
+#line_10_ek1 {
+	top: 0px;
+	left: 299px;
+	width: 1px;
+	height: 289.20568847656px;
+}
+
+
+#line_9_ek1 {
+	top: 272px;
+	left: 0px;
+	width: 328.48876953125px;
+	height: 1px;
+}
+
+#group_25 {
+	top: 764.46319580078px;
+	left: 130.599609375px;
+	width: 328.48876953125px;
+	height: 289.20568847656px;
+}
+
+#line_10_ek2 {
+	top: 0px;
+	left: 29px;
+	width: 1px;
+	height: 289.20568847656px;
+}
+
+
+#line_9_ek2 {
+	top: 16px;
+	left: 0px;
+	width: 328.48876953125px;
+	height: 1px;
+}
+
+
+#rectangle_9 {
+	top: 167px;
+	left: 139px;
+	width: 313px;
+	height: 385px;
+	border: 1px solid #ffffff;
+	background:rgba(7,2,29,255);
+}
+
+
+#rectangle_9_ek1 {
+	top: 167px;
+	left: 526px;
+	width: 313px;
+	height: 385px;
+	border: 1px solid #ffffff;
+	background:rgba(7,2,29,255);
+}
+
+
+#rectangle_9_ek2 {
+	top: 167px;
+	left: 915px;
+	width: 313px;
+	height: 385px;
+	border: 1px solid #ffffff;
+	background:rgba(7,2,29,255);
+}
+
+
+#rectangle_9_ek3 {
+	top: 639px;
+	left: 139px;
+	width: 313px;
+	height: 385px;
+	border: 1px solid #ffffff;
+	background:rgba(7,2,29,255);
+}
+
+
+#rectangle_9_ek4 {
+	top: 639px;
+	left: 526px;
+	width: 313px;
+	height: 385px;
+	border: 1px solid #ffffff;
+	background:rgba(7,2,29,255);
+}
+
+
+#rectangle_9_ek5 {
+	top: 639px;
+	left: 913px;
+	width: 313px;
+	height: 385px;
+	border: 1px solid #ffffff;
+	background:rgba(7,2,29,255);
+}
+
+
+#rectangle_9_ek6 {
+	top: 1111px;
+	left: 139px;
+	width: 313px;
+	height: 385px;
+	border: 1px solid #ffffff;
+	background:rgba(7,2,29,255);
+}
+
+
+#rectangle_9_ek7 {
+	top: 1111px;
+	left: 526px;
+	width: 313px;
+	height: 385px;
+	border: 1px solid #ffffff;
+	background:rgba(7,2,29,255);
+}
+
+
+#rectangle_9_ek8 {
+	top: 1111px;
+	left: 913px;
+	width: 313px;
+	height: 385px;
+	border: 1px solid #ffffff;
+	background:rgba(7,2,29,255);
+}
+
+#component_1___4 {
+	top: 40px;
+	left: 869.00048828125px;
+	width: 458.99951171875px;
+	height: 22px;
+}
+#group_30 {
+	top: 0px;
+	left: 0px;
+	width: 101px;
+	height: 22px;
+}
+#group_17 {
+	top: 0px;
+	left: 0px;
+	width: 101px;
+	height: 22px;
+}
+
+#rectangle_2 {
+	top: 0px;
+	left: 0px;
+	width: 99px;
+	height: 20px;
+	border: 1px solid #ffffff;
+	background:rgba(255,255,255,0);
+}
+
+
+#home {
+	top: 3px;
+	left: 34px;
+	width: 39px;
+	height: 18px;
+	font-family: Segoe UI;
+	font-size: 12px;
+	text-align: left;
+	color:#ffffff;
+}
+#home:hover{
+opacity:0.75;
+cursor: pointer;
+color:skyblue;
+}
+
+#group_20 {
+	top: 0px;
+	left: 115px;
+	width: 103px;
+	height: 22px;
+}
+
+#rectangle_2_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 101px;
+	height: 20px;
+	border: 1px solid #ffffff;
+	background:rgba(255,255,255,255);
+}
+
+
+#skill_set {
+	top: 4px;
+	left: 29px;
+	width: 51px;
+	height: 17px;
+	font-family: Segoe UI;
+	font-size: 11px;
+	text-align: left;
+	color:#07021d;
+}
+#skill_set:hover{
+opacity:0.75;
+cursor: pointer;
+color:skyblue;
+}
+
+#group_21 {
+	top: 0px;
+	left: 232px;
+	width: 111px;
+	height: 22px;
+}
+
+#rectangle_2_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 109px;
+	height: 20px;
+	border: 1px solid #ffffff;
+	background:rgba(255,255,255,0);
+}
+
+
+#certifications {
+	top: 4px;
+	left: 15px;
+	width: 85px;
+	height: 17px;
+	font-family: Segoe UI;
+	font-size: 11px;
+	text-align: left;
+	color:#ffffff;
+}
+#certifications:hover{
+opacity:0.75;
+cursor: pointer;
+color:skyblue;
+}
+#group_22 {
+	top: 0px;
+	left: 357px;
+	width: 102px;
+	height: 22px;
+}
+
+#rectangle_2_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 100px;
+	height: 20px;
+	border: 1px solid #ffffff;
+	background:rgba(255,255,255,0);
+}
+
+
+#about {
+	top: 4px;
+	left: 29px;
+	width: 51px;
+	height: 17px;
+	font-family: Segoe UI;
+	font-size: 13px;
+	text-align: left;
+	color:#ffffff;
+}
+#about:hover{
+opacity:0.75;
+cursor: pointer;
+color:skyblue;
+}
+#artwork_1 {
+	top: 253.99998474121px;
+	left: 211px;
+	width: 170.8134765625px;
+	height: 170.88845825195px;
+}
+
+#artwork_1_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 170.8134765625px;
+	height: 170.88845825195px;
+}
+
+
+#artwork_5 {
+	top: 253.91163635254px;
+	left: 597.95703125px;
+	width: 170.80517578125px;
+	height: 170.88674926758px;
+}
+
+#artwork_3 {
+	top: 255.42094421387px;
+	left: 987.009765625px;
+	width: 170.7001953125px;
+	height: 167.87808227539px;
+}
+
+#path_17 {
+	top: 0px;
+	left: 0px;
+	width: 170.7001953125px;
+	height: 167.87808227539px;
+}
+
+#artwork_3_ek1 {
+	top: 1197.121887207px;
+	left: 981.009765625px;
+	width: 170.7001953125px;
+	height: 167.87811279297px;
+}
+
+#path_17_ek1 {
+	top: -0px;
+	left: 0px;
+	width: 170.7001953125px;
+	height: 167.87805175781px;
+}
+
+
+#artwork_7 {
+	top: 742.40270996094px;
+	left: 598.97998046875px;
+	width: 168.89990234375px;
+	height: 170.59729003906px;
+}
+
+
+#artwork_7_ek1 {
+	top: 1194.4026489258px;
+	left: 598.97998046875px;
+	width: 168.89990234375px;
+	height: 170.59735107422px;
+}
+
+#artwork_7_ek2 {
+	top: 1194.4025878906px;
+	left: 209.97998046875px;
+	width: 168.89990234375px;
+	height: 170.59729003906px;
+}
+
+#artwork_7_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 168.89990234375px;
+	height: 170.59735107422px;
+}
+
+
+#artwork_1_ek2 {
+	top: 742.11157226562px;
+	left: 986.953125px;
+	width: 170.8134765625px;
+	height: 170.88842773438px;
+}
+
+
+#artwork_2 {
+	top: 742.060546875px;
+	left: 207.95751953125px;
+	width: 170.8046875px;
+	height: 170.939453125px;
+}
+
+
+#_95_ {
+	top: 309px;
+	left: 254px;
+	width: 90px;
+	height: 69px;
+	font-family: Segoe UI;
+	font-size: 45px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#html_5 {
+	top: 497px;
+	left: 219px;
+	width: 159px;
+	height: 69px;
+	font-family: Segoe UI;
+	font-size: 45px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#unity {
+	top: 970px;
+	left: 234px;
+	width: 131px;
+	height: 69px;
+	font-family: Segoe UI;
+	font-size: 45px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#node_js {
+	top: 1441px;
+	left: 210px;
+	width: 179px;
+	height: 69px;
+	font-family: Segoe UI;
+	font-size: 45px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#php {
+	top: 1440px;
+	left: 643px;
+	width: 87px;
+	height: 69px;
+	font-family: Segoe UI;
+	font-size: 45px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#java {
+	top: 1440px;
+	left: 1023px;
+	width: 100px;
+	height: 69px;
+	font-family: Segoe UI;
+	font-size: 45px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#python {
+	top: 969px;
+	left: 596px;
+	width: 179px;
+	height: 69px;
+	font-family: Segoe UI;
+	font-size: 45px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#c__ {
+	top: 968px;
+	left: 1026px;
+	width: 94px;
+	height: 69px;
+	font-family: Segoe UI;
+	font-size: 45px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#css {
+	top: 498px;
+	left: 645px;
+	width: 81px;
+	height: 69px;
+	font-family: Segoe UI;
+	font-size: 45px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#java_script {
+	top: 496px;
+	left: 949px;
+	width: 252px;
+	height: 69px;
+	font-family: Segoe UI;
+	font-size: 45px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#_88_ {
+	top: 309px;
+	left: 641px;
+	width: 90px;
+	height: 69px;
+	font-family: Segoe UI;
+	font-size: 45px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#_75_ {
+	top: 310px;
+	left: 1030px;
+	width: 90px;
+	height: 69px;
+	font-family: Segoe UI;
+	font-size: 45px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#_80_ {
+	top: 798px;
+	left: 254px;
+	width: 90px;
+	height: 69px;
+	font-family: Segoe UI;
+	font-size: 45px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#_70_ {
+	top: 1250px;
+	left: 254px;
+	width: 90px;
+	height: 69px;
+	font-family: Segoe UI;
+	font-size: 45px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#_70__ek1 {
+	top: 1250px;
+	left: 641px;
+	width: 90px;
+	height: 69px;
+	font-family: Segoe UI;
+	font-size: 45px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#_75__ek1 {
+	top: 1251px;
+	left: 1028px;
+	width: 90px;
+	height: 69px;
+	font-family: Segoe UI;
+	font-size: 45px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#_70__ek2 {
+	top: 798px;
+	left: 641px;
+	width: 90px;
+	height: 69px;
+	font-family: Segoe UI;
+	font-size: 45px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#_92_ {
+	top: 798px;
+	left: 1030px;
+	width: 90px;
+	height: 69px;
+	font-family: Segoe UI;
+	font-size: 45px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+
+/* Add your custom CSS here */
